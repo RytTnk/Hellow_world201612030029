@@ -8,3 +8,4 @@ He is a man, who fishes inn the Galf.
 public static void main
 
 lllllllllll
+吾輩は猫である．名前はまだない．
